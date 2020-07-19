@@ -2,4 +2,4 @@
 Study R 
 
 ## dplyr
-### select, filter, mutate, etc..
+### select, filter, mutate, join, etc..
