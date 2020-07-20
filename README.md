@@ -8,3 +8,4 @@ Study R
 #### select, filter, mutate, join, etc..
 
 ## Numerical analysis
+#### TaylorSeries
