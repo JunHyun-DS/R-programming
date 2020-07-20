@@ -2,7 +2,7 @@
 Study R 
 
 ## apply
-### apply, tapply, sapply, lapply, ddply
+#### apply, tapply, sapply, lapply, ddply
 
 ## dplyr
-### select, filter, mutate, join, etc..
+#### select, filter, mutate, join, etc..
