@@ -9,3 +9,5 @@ Study R
 
 ## Numerical analysis
 #### TaylorSeries
+
+## Interpolation(보간법)
