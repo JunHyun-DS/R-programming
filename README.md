@@ -4,7 +4,7 @@ Study R
 ## apply
 #### apply, tapply, sapply, lapply, ddply
 
-## dplyr
+## library(dplyr)
 #### select, filter, mutate, join, etc..
 
 ## Numerical analysis
@@ -12,5 +12,5 @@ Study R
 
 ## Interpolation(보간법)
 
-## data.table
+## library(data.table)
 #### fread(data, encoding): 대용량 데이터 파일 읽기
